@@ -5,7 +5,7 @@ in New York City over the past decade, using American Community Survey (ACS)
 PUMS microdata from 2014 to 2024.
 
 The full piece is published here:
-[Who Got Left Out of New York City's Recovery?](https://criticalfields.substack.com/p/76571c6b-372e-452f-ab98-53058e987307)
+[New York City Recovered Its Jobs. Not All Its Workers Did.](https://criticalfields.substack.com/p/76571c6b-372e-452f-ab98-53058e987307)
 
 ## What this project covers
 
